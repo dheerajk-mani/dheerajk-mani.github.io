@@ -1,15 +1,36 @@
-# Dheeraj Kumar Mani — Portfolio Website
+# Dheeraj K. Mani — Senior iOS & macOS Engineer
 
-A responsive, single-page portfolio site for a Senior iOS / macOS Engineer.
+Welcome to my portfolio repository!
 
-## Preview locally
-Open `index.html` in a modern browser.
+I'm a Senior iOS & macOS Engineer with **9+ years of professional experience** building native applications across Apple's platforms.
 
-## Before publishing
-- Review every project description and date for accuracy.
-- Consider whether you want your email address public on the site.
-- Add a resume PDF link after choosing the final public resume file.
-- If you have public GitHub repositories, add the profile link after verifying the URL.
+## 🌐 Live Portfolio
 
-## Deploy
-This is a static site. It can be published using GitHub Pages, Netlify, or another static hosting provider. Upload `index.html` (or the full folder) and follow the provider's publish flow.
+**[Visit My Portfolio](https://dheerajk-mani.github.io/)**
+
+## 👨‍💻 About Me
+
+I specialize in native Apple-platform development, with experience across macOS software, OTT streaming, video-based applications, education technology, and real estate applications.
+
+## 🛠️ Core Technologies
+
+- **Languages:** Swift, Objective-C
+- **iOS:** SwiftUI, UIKit
+- **macOS:** AppKit, native macOS development
+- **Data & Architecture:** Core Data, MVC, MVVM
+- **Tools:** Xcode, Git
+
+## 💼 Professional Experience
+
+- **IDrive Software** — macOS cloud backup and drive functionality.
+- **Muvi Entertainment** — OTT streaming applications and iOS team leadership.
+- **Previous Roles** — Native iOS applications across multiple product domains.
+
+## 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/dheerajkmani)
+- [Portfolio](https://dheerajk-mani.github.io/)
+
+---
+
+*Building reliable and polished native experiences across Apple platforms.*
